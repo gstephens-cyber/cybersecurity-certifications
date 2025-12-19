@@ -2,7 +2,8 @@
 
 **Issuer:** Google Cloud  
 **Status:** Completed  
-**Credential:** [View Certificate]([PASTE_LINK_HERE](https://www.credly.com/badges/490c66d3-3569-4f54-bfd3-38554dd83637/public_url))
+**Credential:** [View Certificate](https://www.credly.com/badges/490c66d3-3569-4f54-bfd3-38554dd83637/public_url)
+
 
 ## Scope
 This certification focuses on foundational and applied cloud security concepts within Google Cloud Platform (GCP), emphasizing identity, access control, visibility, and shared responsibility.

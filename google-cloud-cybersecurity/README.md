@@ -2,7 +2,7 @@
 
 **Issuer:** Google Cloud  
 **Status:** Completed  
-**Credential:** [View Certificate]((https://coursera.org/share/a3593a5e6057269df22cf4d88e5dd8dc))
+**Credential:** [View Certificate](https://coursera.org/share/a3593a5e6057269df22cf4d88e5dd8dc)
 
 
 ## Scope
